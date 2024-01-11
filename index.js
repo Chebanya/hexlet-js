@@ -1,3 +1,3 @@
-import welcome from "./src/index.js";
+import welcome from './src/index.js';
 
-console.log(welcome);
+console.log(welcome());
